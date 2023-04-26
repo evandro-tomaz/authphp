@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e08bea8cf1f738b6264a8a31a5c9fec6",
+    "content-hash": "2b478a151a43d427f2f7644038f6f3ff",
     "packages": [
         {
             "name": "coffeecode/datalayer",
@@ -61,21 +61,21 @@
         },
         {
             "name": "coffeecode/optimizer",
-            "version": "2.0.0",
+            "version": "2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/robsonvleite/optimizer.git",
-                "reference": "20f70bb706413e1997ffed501fd9d7f48a60bceb"
+                "reference": "53c00844e3316a74f8f076b0b325ceb140d41b70"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/robsonvleite/optimizer/zipball/20f70bb706413e1997ffed501fd9d7f48a60bceb",
-                "reference": "20f70bb706413e1997ffed501fd9d7f48a60bceb",
+                "url": "https://api.github.com/repos/robsonvleite/optimizer/zipball/53c00844e3316a74f8f076b0b325ceb140d41b70",
+                "reference": "53c00844e3316a74f8f076b0b325ceb140d41b70",
                 "shasum": ""
             },
             "require": {
                 "ext-simplexml": "*",
-                "php": "^7.2"
+                "php": ">=7.2"
             },
             "type": "library",
             "autoload": {
@@ -108,9 +108,9 @@
             ],
             "support": {
                 "issues": "https://github.com/robsonvleite/optimizer/issues",
-                "source": "https://github.com/robsonvleite/optimizer/tree/master"
+                "source": "https://github.com/robsonvleite/optimizer/tree/2.0.2"
             },
-            "time": "2019-08-29T14:26:45+00:00"
+            "time": "2021-03-21T14:08:00+00:00"
         },
         {
             "name": "coffeecode/router",
